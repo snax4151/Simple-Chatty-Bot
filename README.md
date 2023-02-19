@@ -1,3 +1,3 @@
 # Simple-Chatty-Bot
 my first repository on GitHub
-My first project
+My first project and first bot
